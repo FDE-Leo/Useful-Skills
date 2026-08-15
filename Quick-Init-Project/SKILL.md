@@ -9,7 +9,7 @@ description: "快速初始化项目环境：安装配置 context-engineer 并下
 
 ## 步骤 1：安装并配置 context-engineer
 
-阅读 `https://github.com/FDE-Leo/Useful-Skills/blob/main/Context-Engineer/SKILL.md`，并按照其中的说明安装和配置 context-engineer。
+阅读 `https://github.com/FDE-Leo/Useful-Skills/blob/main/Context-Engineer/SKILL.md`，并按照其中的说明在当前工作目录下安装和配置 context-engineer。
 
 ## 步骤 2：下载 skill-creator 参考文档
 
